@@ -11,7 +11,8 @@
 
 - 📫 Reach out to me @ **anujkuntal14@gmail.com**
   
-- 💬  Dr B R Ambedkar National Institute of Technology, Jalandhar 
+- 💬  Dr B R Ambedkar National Institute of Technology, Jalandhar
+-  🎓 B.Tech in CSE 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
