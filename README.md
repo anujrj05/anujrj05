@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Converting+coffee+into+code!!!..👋">
   </a>
 </h1>
-<h3 align="center">An undergraduate and passionate Web Developer.</h3>
+<h3 align="center">An undergraduate and passionate Software Developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">
